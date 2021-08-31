@@ -390,7 +390,7 @@ a:hover,a:focus,a.active{
     background: url(../images/background/01.jpg) no-repeat center fixed;
 }
 .background3{
-  background-image: url(../images/slider/banner-3.JPG);
+  background-image: url(../images/slider/banner-3.jpg);
 }
 
 @media only screen and (max-width: 450px) {
