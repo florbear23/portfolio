@@ -21,7 +21,7 @@
 /*	Background Color
 ===================================================================*/
 .bg_default{
-	background-color: #90c923;
+	background-color: greenyellow;
 }
 .bg_primary{
 	background-color: #1e283c;
@@ -77,14 +77,14 @@
 	color: #1e283c;
 }
 .navbar-nav .nav-item .nav-link:before{
-	background-color: #90c923;
+	background-color: greenyellow;
 }
 .navbar-light .navbar-nav .nav-link{
 	color: #fff
 }
 .navbar-light .navbar-nav .nav-link.active,.nav-scroll .navbar-light .navbar-nav .nav-link.active,
 ul#menu li.active a,.contact_massage a{
-	color: #90c923;
+	color: greenyellow ;
 }
 .nav-scroll .navbar-light .navbar-nav .nav-link{
 	color: #1e283c
@@ -101,7 +101,7 @@ ul#menu li.active a,.contact_massage a{
 	color: #fff
 }
 .white_hover a i:hover{
-	color: #90c923;
+	color: greenyellow !important;
 }
 /*	Default Color Class & ID
 ===================================================================*/

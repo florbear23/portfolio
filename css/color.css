@@ -84,7 +84,7 @@
 }
 .navbar-light .navbar-nav .nav-link.active,.nav-scroll .navbar-light .navbar-nav .nav-link.active,
 ul#menu li.active a,.contact_massage a{
-	color:#00cc66;
+	color:greenyellow;
 }
 .nav-scroll .navbar-light .navbar-nav .nav-link{
 	color: #1e283c
@@ -109,7 +109,7 @@ ul#menu li.active a,.contact_massage a{
 .navbar-light .navbar-nav .nav-link:hover,.socal_media_2 ul li a:hover,
 ul#menu li a:hover,.twite i,.twite a:hover,.category_sidebar ul li:hover,
 .white_link a:hover,.recent_post a:hover,.archives ul li a:hover{
-	color: #00cc66;
+	color: greenyellow;
 }
 /*	Primary Color Class & ID
 ===================================================================*/
